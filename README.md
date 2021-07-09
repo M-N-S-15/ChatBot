@@ -1,6 +1,6 @@
 ChatBot 
 
--Movment Page with Chatbot that can move the robot
+-Movment Page with Chatbot that can move the robot and talk with the bot
 
 ==========================================
 
